@@ -8,6 +8,7 @@
 include device/oneplus/sm8450-common/BoardConfigCommon.mk
 
 # Display
+TARGET_SCREEN_DENSITY := 420
 $(call soong_config_set,qtidisplay,oplus_udfps,true)
 
 # HIDL
