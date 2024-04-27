@@ -58,7 +58,8 @@ PRODUCT_PACKAGES += \
     OPlusGT2PROWifiOverlay \
     OPlusSettingsProviderResTarget \
     OPlusSettingsResTarget \
-    OPlusSystemUIResTarget
+    OPlusSystemUIResTarget \
+    PixelSetupWizardStringsOverlay
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
